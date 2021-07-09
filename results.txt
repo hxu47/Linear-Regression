@@ -1,0 +1,18 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.8.6, pytest-6.2.2, py-1.10.0, pluggy-0.13.1 -- /Users/parrt/opt/anaconda3/bin/python
+cachedir: .pytest_cache
+rootdir: /Users/parrt/grading/msds621/S21/linreg-hxu47
+plugins: anyio-2.0.2
+collecting ... collected 9 items
+
+test_regr.py::test_synthetic PASSED                                      [ 11%]
+test_regr.py::test_ridge_synthetic PASSED                                [ 22%]
+test_regr.py::test_boston PASSED                                         [ 33%]
+test_regr.py::test_boston_noise PASSED                                   [ 44%]
+test_regr.py::test_ridge_boston PASSED                                   [ 55%]
+test_regr.py::test_ridge_boston_noise PASSED                             [ 66%]
+test_class.py::test_synthetic PASSED                                     [ 77%]
+test_class.py::test_wine PASSED                                          [ 88%]
+test_class.py::test_iris PASSED                                          [100%]
+
+============================== 9 passed in 7.66s ===============================

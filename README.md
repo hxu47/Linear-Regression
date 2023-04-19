@@ -1,4 +1,4 @@
-# linreg-hxu47
+# Linear Regression
 
 In this project, I implemented three models from scratch:
 - Rrdinary least squares (OLS) regression
